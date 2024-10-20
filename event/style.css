@@ -1,0 +1,10 @@
+.imgContainer {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline double;
+    font-weight: bolder;
+    font-family: tahoma;
+}
